@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Store to xml</comment>
+<entry key="John">john@gmail.com</entry>
+<entry key="Rogers">rogers@gmail.com</entry>
+<entry key="Kym">kym@gmail.com</entry>
+<entry key="Joseph">joseph@gmail.com</entry>
+<entry key="Peter">peter@gmail.com</entry>
+</properties>
